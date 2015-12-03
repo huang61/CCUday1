@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Master
-=======
-Test2
->>>>>>> test2
